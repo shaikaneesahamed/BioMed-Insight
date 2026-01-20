@@ -1,0 +1,15 @@
+body {
+    background-color: #F8F9FA;
+}
+
+.title {
+    color: #0B5ED7;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.subtitle {
+    color: #20C997;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
